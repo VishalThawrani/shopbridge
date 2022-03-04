@@ -77,7 +77,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 From the Author section:
 
 The application is an inventory managment tool which has 3 innput fields named as Product, Description and price.
+
 For adding an item there is "Add Item" button.
+
 For getting the list of items in the inventory "List Items" button. It is toggle button to show and hide the list.
+
 For deleting an item you need to get the list first and then you'll be able to see the "delete" button in front of the item.
+
 For modifying, again you need to get the list and after you click the "modify" button the item you clicked on gets populated on the fields as per field name and you can change the field data and click on "Add Item" button to see the change in the list.
